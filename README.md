@@ -1,6 +1,6 @@
 ![enter image description here](https://img.shields.io/badge/Author-Meganitrospeed-red) [![CodeFactor](https://www.codefactor.io/repository/github/meganitrospeed/ip_history/badge)](https://www.codefactor.io/repository/github/meganitrospeed/ip_history) ![enter image description here](https://img.shields.io/maintenance/yes/2022)
 # IP History Web GUI
-This is the Web GUI for ip_history(https://github.com/Meganitrospeed/ip_history)
+This is the Web GUI for [ip_history](https://github.com/Meganitrospeed/ip_history)
 This README only has a basic setup, please read the other README for more project info
 ## 🚩 Table of Contents
 
@@ -28,7 +28,7 @@ This project is a WIP so this list may be expanded, but to this day I have worke
   
 ## Setup
 
-There is an additional part for setup which is IP_History_web(https://github.com/Meganitrospeed/ip_history_web) which is a GUI made in Ionic+React for the easy visualisation of the recollected data
+There is an additional part for setup which is [IP_History_web](https://github.com/Meganitrospeed/ip_history_web) which is a GUI made in Ionic+React for the easy visualisation of the recollected data
 
 Steps:
  - Make sure that NodeJS and NPM is installed
