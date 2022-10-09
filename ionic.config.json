@@ -1,0 +1,7 @@
+{
+  "name": "ip_history_web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
